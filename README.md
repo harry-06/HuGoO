@@ -1,5 +1,5 @@
 # Hugo-Static-Site-Generator
-Static website generator- useful for prototypes
+Static website generator- useful for quick building of prototypes
 
 
 
